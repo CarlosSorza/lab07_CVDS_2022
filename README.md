@@ -17,3 +17,4 @@ registrarNuevoProducto - Use su código de estudiante para evitar colisiones.\
 ![image](https://user-images.githubusercontent.com/98216838/159823525-97e4f7e5-3b4f-4806-aff0-e3cbc3e04d1f.png)\
 Registramos los dos nuevos productos\
 ![image](https://user-images.githubusercontent.com/98216838/159822355-f714458d-f3f7-464a-ae15-1f2bb7270419.png)\
+## Seccion 2
