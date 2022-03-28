@@ -20,4 +20,7 @@ Registramos los dos nuevos productos\
 Verifique por medio de un cliente SQL, que la información retornada por el programa coincide con la que se encuentra almacenada en base de datos.\
 ![image](https://user-images.githubusercontent.com/98216838/159830161-cc132a3f-554c-45c2-99bb-a2bca0b2821a.png)
 
-## Seccion 2
+## Seccion 2 INTRODUCCIÓN A MYBATIS
+1. Revise la documentación básica de MyBatis de forma que entienda para qué sirve y el uso básico que se le puede dar al framework.
+2. Seguir las instrucciones que se encuentran en el repositorio de forma que en la clase MyBatisExample.java se creen los mappers necesarios y sea posible realizar la ejecución de diferentes sentencias SQL en la base de datos de pruebas.
+![image](https://user-images.githubusercontent.com/78982514/160328815-754a1aa3-f486-406b-b256-ba1a93deb177.png)
