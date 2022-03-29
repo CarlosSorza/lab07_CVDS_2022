@@ -34,7 +34,8 @@
     <mappers>
         <mapper resource="mappers/ClienteMapper.xml"></mapper>
         <mapper resource="mappers/ItemMapper.xml"></mapper>
-        <mapper resource="mappers/TipoItemMapper.xml"></mapper>        
+        <mapper resource="mappers/TipoItemMapper.xml"></mapper>
+        <mapper resource="mappers/ItemRentadoMapper.xml"></mapper>
     </mappers> 
         
         

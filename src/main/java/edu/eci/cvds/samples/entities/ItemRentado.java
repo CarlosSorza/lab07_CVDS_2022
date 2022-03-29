@@ -8,10 +8,6 @@ package edu.eci.cvds.samples.entities;
 import java.io.Serializable;
 import java.sql.Date;
 
-/**
- *
- * @author 2106913
- */
 public class ItemRentado implements Serializable {
 
     private int id;
